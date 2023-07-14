@@ -1,0 +1,59 @@
+body{
+    background-color: antiquewhite;
+}
+fieldset{
+    background-color: #eee;
+    display: inline;
+}
+fieldset div{
+    display: block;
+    margin: 2px;
+    padding: 2px;
+    border: 2px;
+    border-radius: 4px;
+    max-height: 300px;
+}
+div label, div input{
+    display: inline;
+}
+p{
+    border-top: #eee solid 2px;
+    border-bottom: #eee solid 2px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+#enviar{
+    background-color: #09f;
+}
+#cancelar{
+    background-color: #eee;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+    border: 1px solid blue;
+    border-radius: 4px;
+    background-color: #09f;
+    padding: 2px;
+}
+.fiel{
+    display: block;
+}
+.informacion{
+    display: inline;
+}
+div h1{
+    color: #fff;
+    border: 1px solid;
+    border-radius: 0px;
+    background-color: #0d6efd;
+    margin-top: -8px;
+    margin-right: -8px;
+    margin-left: -8px;
+    margin-bottom: 8px;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    font-size: 54px;
+}

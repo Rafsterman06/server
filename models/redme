@@ -1,0 +1,7 @@
+npm i dotenv
+npm i ejs
+npm i express
+npm i mysql
+npm i sha1
+npm i express-session
+npm i cookie-parser
